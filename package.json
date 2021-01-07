@@ -1,0 +1,20 @@
+{
+  "name": "password-checker",
+  "version": "1.0.0",
+  "description": "A password valid checker algorithm using regex implementation.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridhanf/password-checker-js.git"
+  },
+  "keywords": [
+    "javascript",
+    "regex",
+    "password"
+  ],
+  "author": "ridhanf",
+  "license": "MIT"
+}
